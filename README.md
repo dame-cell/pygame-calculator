@@ -1,2 +1,5 @@
 # pygame-calculator
-a calculator created pygame
+
+
+a snake game using pygame 
+
