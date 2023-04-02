@@ -1,4 +1,4 @@
-# pygame-calculator
+# snake game
 
 
 a snake game using pygame 
